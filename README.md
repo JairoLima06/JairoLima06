@@ -1,10 +1,10 @@
-### Olá! Eu sou o Jairo Lima 👋🏽
+### Olá! Eu sou o Jairo Lima, desenvolvedor em constante evolução! 👋🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-lima-0802281b2/)
 [![Portfólio](https://img.shields.io/badge/Maintained%3F-yes-green.svg
 )](https://portfolio-jairo-lima.netlify.app/)
 
-![Jairo GitHub stats](https://github-readme-stats.vercel.app/api?username=jairolima&show_icons=true&theme=radical)
+![Jairo GitHub stats](https://github-readme-stats.vercel.app/api?username=jairolima06&show_icons=true&theme=radical)
 
 ### Tecnologias que uso na minha jornada! 💻
 
@@ -14,4 +14,7 @@
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="js" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairolima)](https://github.com/anuraghazra/github-readme-stats)
 
